@@ -1,0 +1,66 @@
+{
+  "roommates": [
+    {
+      "id": "a56345",
+      "nombre": "Heinz-Joachim Berner",
+      "debe": 50000,
+      "recibe": 460000
+    },
+    {
+      "id": "e4ce5b",
+      "nombre": "Bozhedar Antkiv",
+      "debe": 310000,
+      "recibe": 390000
+    },
+    {
+      "id": "2ebedf",
+      "nombre": "مرسانا نكو نظر",
+      "debe": 30000,
+      "recibe": 240000
+    },
+    {
+      "id": "27bbad",
+      "nombre": "Diana Armstrong",
+      "debe": 120000,
+      "recibe": 10000
+    },
+    {
+      "id": "15e4bb",
+      "nombre": "Olga Spasić",
+      "debe": 290000,
+      "recibe": 360000
+    },
+    {
+      "id": "1e6a7e8d-e5a3-4e32-b6d9-0d0db66cd716",
+      "nombre": "Veli"
+    },
+    {
+      "id": "ae1e0fe1-7ba4-4d80-8b4f-67df32d4d25d",
+      "nombre": "پارسا"
+    },
+    {
+      "id": "5dc11b",
+      "nombre": "August Poulsen",
+      "debe": 440000,
+      "recibe": 330000
+    },
+    {
+      "id": "e850ab",
+      "nombre": "Fernando Orta",
+      "debe": 130000,
+      "recibe": 410000
+    },
+    {
+      "id": "44089f",
+      "nombre": "Tammy Steeves ",
+      "debe": 260000,
+      "recibe": 70000
+    },
+    {
+      "id": "bdfc31",
+      "nombre": "Mathis Gauthier",
+      "debe": 230000,
+      "recibe": 10000
+    }
+  ]
+}
